@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_android_black_24dp
+id status_text
+layout activity_main
+mipmap ic_launcher
+string app_name
+style Theme.AppCompat.Leanback
+style Theme.App.Leanback
+xml network_security_config

@@ -1,0 +1,10 @@
+#Fri Oct 24 13:24:59 IST 2025
+base.0=/Users/piyush/Projects/Trae_project/HuntDigitalMedia_demo2/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/piyush/Projects/Trae_project/HuntDigitalMedia_demo2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/piyush/Projects/Trae_project/HuntDigitalMedia_demo2/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

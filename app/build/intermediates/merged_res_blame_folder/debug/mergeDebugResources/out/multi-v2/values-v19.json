@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.huntdigitalmedia.tvapp-mergeDebugResources-24:/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/piyush/.gradle/caches/8.12/transforms/55c254a0b1d5e52b3d6af7cd846ebd4a/transformed/leanback-1.0.0/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "659"
+                    }
+                }
+            ]
+        }
+    ]
+}
